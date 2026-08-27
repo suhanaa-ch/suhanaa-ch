@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, I'm Suhana.<br><br>🎓 2nd Year Engineering Student<br>🐍 Backend Development with Python<br>🌱 Currently learning FastAPI, Docker, LLMs & RAG<br>💡 Interested in AI Applications and Scalable Backend Systems<br>🤝 Open to collaborating on Python and AI projects<br>⚡ Building projects to strengthen my software engineering skills
+Hi, I'm Suhana.<br><br>🎓 3rd Year Engineering Student<br>🐍 Backend Development with Python<br>🌱 Currently learning FastAPI, Docker, LLMs & RAG<br>💡 Interested in AI Applications and Scalable Backend Systems<br>🤝 Open to collaborating on Python and AI projects<br>⚡ Building projects to strengthen my software engineering skills
 
 
 ## 🌐 Socials:
